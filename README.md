@@ -1,26 +1,27 @@
-# João Victor Trojan
+# 👋 João Victor
 
-Desenvolvedor em formação (14 anos), com foco em **Python**, **interfaces gráficas** e **desenvolvimento backend**.  
-Interesse em matemática aplicada, lógica e fundamentos de segurança.
+💻 Desenvolvedor em formação (14 anos)  
+🐍 Foco em **Python**, **interfaces gráficas** e **backend**  
+🧠 Interesse em matemática aplicada, lógica e fundamentos de segurança
 
 ---
 
-## 🚀 Tecnologias & Conhecimentos
+## 🛠️ Tecnologias & Conhecimentos
 
-### Linguagens
+### 🧩 Linguagens
 - Python
 - HTML & CSS
 
-### Backend
+### 🌐 Backend
 - Flask
 - Estruturação de aplicações web
 - Sistemas de login e cadastro
 
-### Interfaces Gráficas
+### 🖥️ Interfaces Gráficas
 - CustomTkinter (CTk)
-- Desenvolvimento de aplicações desktop
+- Desenvolvimento de programas com interface gráfica em Python
 
-### Conceitos
+### 📚 Conceitos
 - Lógica de programação
 - Matemática aplicada
 - Noções de segurança da informação
@@ -28,7 +29,7 @@ Interesse em matemática aplicada, lógica e fundamentos de segurança.
 
 ---
 
-## 📚 Atualmente estudando
+## 📖 Em aprendizado contínuo
 - Backend com Flask
 - Interfaces gráficas em Python
 - Segurança básica e criptografia
@@ -36,4 +37,4 @@ Interesse em matemática aplicada, lógica e fundamentos de segurança.
 
 ---
 
-⭐ Perfil focado em aprendizado contínuo e evolução técnica!
+✨ Perfil focado em evolução constante e construção de conhecimento sólido!
