@@ -1,6 +1,6 @@
 # 👋 João Victor
 
-💻 Desenvolvedor em formação (14 anos)  
+💻 Desenvolvedor em formação (15 anos)  
 🐍 Foco em **Python**, **interfaces gráficas** e **backend**  
 🧠 Interesse em matemática aplicada, lógica e fundamentos de segurança
 
